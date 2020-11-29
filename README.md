@@ -1,5 +1,5 @@
 # Python-Portscanner
-a shitty portscanner
+a shitty portscanner with a progress bar
 
 ### dependencies
 
