@@ -2,7 +2,6 @@
 
 import sys
 import time
-from progress.bar import IncrementalBar
 from progress.bar import Bar
 from datetime import datetime as dt
 import socket
