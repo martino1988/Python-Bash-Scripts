@@ -37,7 +37,7 @@ try:
 
         bar.finish()
         print("-" * 50)
-        print("Target: " + target)
+        print("Target:        " + target)
         print("Time startetd: " + starttime)
         print("Time ended:    " + str(dt.now().strftime('%d.%m.%Y - %H:%M:%S')))
         print("Open Ports:")
