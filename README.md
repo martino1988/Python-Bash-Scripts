@@ -1,6 +1,6 @@
 # Python Scripts
-* a shitty portscanner with a progress bar
-* display CPU temperature overwriting on one line with colors if temperature too high
+1 a shitty portscanner with a progress bar
+2. display CPU temperature overwriting on one line with colors if temperature too high
 
 ### dependencies
 
