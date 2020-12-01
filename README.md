@@ -5,9 +5,11 @@
 ### dependencies
 
 * progress
+
 pip install progress
 
 * cpu_temp
+
 python 3
 
 
