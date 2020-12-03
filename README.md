@@ -13,6 +13,10 @@ pip install progress
 
 python 3
 
+* **retropi_upload.sh**
+
+sshpass
+
 
 ### Images of the scripts
 
