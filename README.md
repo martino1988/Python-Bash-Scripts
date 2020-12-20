@@ -7,7 +7,7 @@
 
 ### dependencies
 
-#### poertscanner:
+#### portscanner:
 
 pip install progress
 
