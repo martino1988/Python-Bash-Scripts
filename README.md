@@ -3,17 +3,19 @@
 
 2. display CPU temperature overwriting on one line with colors if temperature too high
 
+3. uploadscript for retropi
+
 ### dependencies
 
-* **progress**
+#### poertscanner:
 
 pip install progress
 
-* **cpu_temp**
+#### cpu_temp:
 
 python 3
 
-* **retropi_upload.sh**
+#### retropi_upload:
 
 sshpass
 
