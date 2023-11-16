@@ -3,8 +3,8 @@ import sys
 print("NOTE: document_parser is only tested with .txt and .csv files\nPlease note that the search is case sensitive")
 if len(sys.argv) != 4:
     print("Invalid number of arguments")
-    print("Syntax: python.exe pdf_parser.py [document to parse] [term to search] [name of outputdocument]")
-    print("For example: python.exe pdf_parser.py presentation.pdf 'top secret' output.txt")
+    print("Syntax: python.exe document_parser.py [document to parse] [term to search] [name of outputdocument]")
+    print("For example: python.exe document_parser.py data.csv 'Top Secret' output.txt")
     sys.exit()
     
 
