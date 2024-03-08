@@ -2,6 +2,8 @@ import sys
 import re
 from py_pdf_parser.loaders import load_file
 
+# requirements: pip install py-pdf-parser
+
 def start():
     document = load_file('Servicekatalog.pdf')
     elms = document.elements
